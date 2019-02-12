@@ -6,3 +6,7 @@
 
 4.- git commit -m "Datos uno"  --> hace la primer copia.
 
+5.-git commit -am "Sube y guarda el commit"   -->  sube y guarda el commit
+
+6.-git log  --> muestra los commits
+
