@@ -1,0 +1,2 @@
+1.-git  checkout -- .       ---> Regresa todo al ultimo commit 
+

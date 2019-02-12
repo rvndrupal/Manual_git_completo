@@ -1,2 +1,8 @@
 1.- git init
 
+2.- git status  --> muestra todos los cambios
+
+3.- git add . --> Agregando todos los archivos.
+
+4.- git commit -m "Datos uno"  --> hace la primer copia.
+
