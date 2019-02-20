@@ -10,3 +10,10 @@
 
 6.-git log  --> muestra los commits
 
+7.-Agregar diferentes formas.
+
+git add index.html 
+
+git add *.png  
+
+git add css/  //todo lo que esta en la carpeta
