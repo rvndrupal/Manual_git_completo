@@ -17,3 +17,4 @@ git add index.html
 git add *.png  
 
 git add css/  //todo lo que esta en la carpeta
+
