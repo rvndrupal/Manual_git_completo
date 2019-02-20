@@ -1,0 +1,6 @@
+1.-git config --global alias.lg       --> con esto se degine el alias lg 
+completo queda 
+git config --global alias.lg "log --oneline --decorate --all --graph"
+
+2.-git config --global alias.s "status -s -b"
+
