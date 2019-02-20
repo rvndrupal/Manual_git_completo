@@ -1,0 +1,5 @@
+Quitando archivos cargados add
+
+git reset *.xml  //quita todos los xml
+
+git reset fuera.html  //quita solo este archivo
