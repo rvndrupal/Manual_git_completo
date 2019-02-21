@@ -6,5 +6,7 @@ git config --global alias.lg "log --oneline --decorate --all --graph"
 
 3.-Restaurar commit mensaje y contenido ultimo commit.
 
-git config --global alias.regresar "git reset --soft HEAD^"
+git config --global alias.reg "git reset --soft HEAD^"
+
+Se crea el alias para regresar al commit y poderlo modificar
 
