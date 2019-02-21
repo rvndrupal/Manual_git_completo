@@ -4,3 +4,7 @@ git config --global alias.lg "log --oneline --decorate --all --graph"
 
 2.-git config --global alias.s "status -s -b"
 
+3.-Restaurar commit mensaje y contenido ultimo commit.
+
+git config --global alias.regresar "git reset --soft HEAD^"
+
