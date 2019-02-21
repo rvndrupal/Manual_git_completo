@@ -1,0 +1,19 @@
+1.- Verificar Diferencias.
+#################
+
+git diff   --> nos muestra los cambios.
+
+2.-Verificar con algo que esta en el stage.
+
+git diff -- staged
+
+######
+Regresar el archivo quitarlo del stage.
+
+git reset HEAD [NOMBRE-ARCHIVO]
+
+#######################
+
+Para regresar todos los cambios de este archivo.
+
+git checkout -- [nombre-archivo]

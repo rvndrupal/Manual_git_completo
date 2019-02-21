@@ -1,0 +1,14 @@
+1.-subir  todo
+
+git commit -am "Subir todo"
+
+2.-Cambiar el texto del commit Equivocado.
+
+Luego luego del ultimo commit.
+
+git commit --amend -m "Actualizar el mensaje"
+
+#######################################3
+Si se hace un commit y en ese commit se tenia que hacer cambios que no se hicieron.
+
+git reset --soft HEAD^  -->  con esto te permite modifica los cambios en el archivo. muy chingo
