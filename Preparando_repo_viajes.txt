@@ -6,3 +6,11 @@ git commit --amend    --> muy bueno
 Configurar guardar commit con -am
 
 git config core.autocrlf true --> muy importante  para que funcione
+
+
+######################################################
+Viajar en el tiempo muy importante.
+
+Ir a una linea y modificarla
+
+git reset --soft  8da8b24   
