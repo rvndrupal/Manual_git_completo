@@ -1,3 +1,8 @@
 1-Modificar nombre del commit 
 
-git commit --amend
+git commit --amend    --> muy bueno
+
+#################
+Configurar guardar commit con -am
+
+git config core.autocrlf true
