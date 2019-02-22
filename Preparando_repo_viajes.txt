@@ -20,4 +20,4 @@ git reset --hard  8da8b24   -->lo manda con fuerza
 #######################
 MAGIA ESTE COMANDO
 
-git reflog
+git reflog   --> super importante junto con el  --hard para mandar o recuperar lo que se quiere.
