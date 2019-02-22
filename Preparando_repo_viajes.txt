@@ -13,4 +13,11 @@ Viajar en el tiempo muy importante.
 
 Ir a una linea y modificarla
 
-git reset --soft  8da8b24   
+git reset --soft  8da8b24   -->muy importante
+
+git reset --hard  8da8b24   -->lo manda con fuerza
+
+#######################
+MAGIA ESTE COMANDO
+
+git reflog
