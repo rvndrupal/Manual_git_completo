@@ -1,0 +1,5 @@
+>git file history
+
+ctrl+p
+
+> git view file history

@@ -1,0 +1,23 @@
+Merge Fast-Forward
+
+1.-git branch [nombre]
+
+2.-git branch  --> me muestra las ramas
+
+3.-git checkout [rama]
+
+4.-git diff master rama-villanos
+
+#####################
+Unirlas.
+
+Pasar a la rama master.
+
+git checkout master
+
+git merge rama-villanos
+
+########################
+Borrar rama
+
+git branch -d rama-villanos
