@@ -1,0 +1,5 @@
+1.- se crea un archivo en la raiz
+
+.gitignore
+
+se agregan con su ruta 
