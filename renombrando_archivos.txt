@@ -1,0 +1,4 @@
+git add -u   para aomodar el renombrado.
+
+git add .
+
