@@ -1,0 +1,12 @@
+Unión Automatica.
+
+1-git checkout -b villano  -->crea la ram villano y se pasa automaticamente a la rama. -b es de branch
+
+2.-se hacen los cambios en la rama.
+
+3.-git checkout master  --> moverse a una rama. estando en master.
+
+4.-git merge villano -->ingresar un mensaje.
+
+
+

@@ -1,0 +1,15 @@
+1.- git checkout -b conflicto   --> Se crea la rama.
+
+2.-se hacen cambios desde las dos ramas en el mismo archivo.
+
+3.-unir con conflicto
+
+git checkout master  --> moverse a una rama. estando en master.
+
+git merge conflicto  --> manda el error.
+
+Quitamos <<<head y los  >>>>>>conflicto.
+
+se hacen los cambios
+
+por ultimo se hace el nuevo commit 
